@@ -82,7 +82,7 @@ GEM
     erubi (1.7.0)
     execjs (2.7.0)
     fastclick-rails (1.0.1)
-    ffi (1.9.18)
+    ffi (1.11.3)
     flot-rails (0.0.7)
       jquery-rails
     font-awesome-sass (4.7.0)
