@@ -116,7 +116,7 @@ GEM
     nprogress-rails (0.2.0.2)
     parsley-rails (2.7.0.0)
       railties (>= 3.0.0)
-    rack (2.0.3)
+    rack (2.2.1)
     rack-test (0.8.2)
       rack (>= 1.0, < 3)
     rails (5.1.4)
